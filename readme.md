@@ -27,11 +27,20 @@ npm i
 
 ## Usage
 
-Once all the packages have been installed run the following line of code in your terminal: 
+Once all the packages have been installed build your DataBase. You can use Mysql workbench to create your DB or run command line:
+```
+mysql -u root -p
+```
+and create your DB there. Once DB has been created run in your terminal:
+```
+npm run seed
+```
+to seed your DB. Once your DB is completed run in your terminal:
 ```
 npm start
 ```
-This will start your server. From there you can use Postman App. to test out all your api calls.
+This will start your server. From there you can use Postman App to test out all your API calls.
+* [Download Postman App here.](https://www.postman.com/downloads/)
 
 
 ## Built With

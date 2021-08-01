@@ -1,10 +1,11 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End
 
+In this project I built out the back end for an e-commerce site by modifying starter code. Configured a working Express.js API to use Sequelize to interact with a MySQL database. This app has full CRUD capability as you can CREATE, READ, UPDATE, and DELETE from this database.
 
 
   * [Installation](#install)
   * [Usage](#usage)
-  * For a video on using the app click [here.]()
+  * For a video on using the app click [here.](https://drive.google.com/file/d/1OK0mcV8EBXbN9NJmn3xaCKlokZ0TQHeM/view?usp=sharing)
 
 
 
